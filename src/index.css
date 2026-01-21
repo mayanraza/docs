@@ -1,0 +1,217 @@
+@import "tailwindcss";
+
+@plugin "@tailwindcss/typography";
+
+@theme {
+  --color-border: hsl(220 13% 91%);
+  /* Cool gray 100 */
+  --color-input: hsl(220 13% 91%);
+  --color-ring: hsl(224 76% 48%);
+  /* Brand Blue */
+
+  --color-background: #ffffff;
+  --color-foreground: #111827;
+  /* Gray 900 */
+
+  --color-primary: #111827;
+  /* Primary actions often black in docs */
+  --color-primary-foreground: #ffffff;
+
+  --color-secondary: #f3f4f6;
+  /* Gray 100 */
+  --color-secondary-foreground: #111827;
+
+  --color-muted: #f9fafb;
+  /* Gray 50 */
+  --color-muted-foreground: #6b7280;
+  /* Gray 500 */
+
+  --color-accent: #f3f4f6;
+  --color-accent-foreground: #111827;
+
+  --color-destructive: hsl(0 84.2% 60.2%);
+  --color-destructive-foreground: hsl(210 40% 98%);
+
+  --color-popover: #ffffff;
+  --color-popover-foreground: #111827;
+
+  --color-card: #ffffff;
+  --color-card-foreground: #111827;
+
+  --radius: 0.5rem;
+
+  /* Typography overrides for Tailwind v4 */
+  /* Typography overrides for Tailwind v4 */
+  --font-sans: 'Nunito', ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+
+/* Dark mode overrides */
+.dark {
+  --color-background: #111111;
+  /* Soft Matte Black */
+  --color-foreground: #ededed;
+
+  --color-border: #2a2a2a;
+  --color-input: #2a2a2a;
+
+  --color-primary: #ffffff;
+  --color-primary-foreground: #000000;
+
+  --color-secondary: #222222;
+  --color-secondary-foreground: #ffffff;
+
+  --color-muted: #1a1a1a;
+  --color-muted-foreground: #a0a0a0;
+
+  --color-accent: #222222;
+  --color-accent-foreground: #ffffff;
+
+  --color-popover: #111111;
+  --color-popover-foreground: #ffffff;
+
+  --color-card: #111111;
+  --color-card-foreground: #ffffff;
+}
+
+/* Custom Utilities */
+@utility container {
+  margin-inline: auto;
+  padding-inline: 2rem;
+}
+
+/* Custom Scrollbar Styling */
+@layer base {
+  ::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+  }
+
+  ::-webkit-scrollbar-track {
+    background: transparent;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background: transparent;
+    border-radius: 9999px;
+  }
+
+  /* Show scrollbar thumb on hover */
+  :hover::-webkit-scrollbar-thumb {
+    background: #e5e7eb;
+    /* gray-200 */
+  }
+
+  ::-webkit-scrollbar-thumb:hover {
+    background: #d1d5db;
+    /* gray-300 */
+  }
+}
+
+/* WhatsApp Style Image Collage - Premium Version */
+@utility collage-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 12px;
+  /* Increased gap for larger layout */
+  border-radius: 24px;
+  overflow: hidden;
+  width: 100%;
+  max-width: 100%;
+  /* Take all available space */
+  margin: 3rem auto;
+  border: 1px solid var(--color-border);
+  background: var(--color-background);
+  box-shadow: 0 20px 50px rgba(0, 0, 0, 0.1);
+}
+
+@utility collage-slot {
+  position: relative;
+  aspect-ratio: 16/10;
+  /* Better fit for dashboard screenshots */
+  cursor: pointer;
+  background: var(--color-muted);
+  overflow: hidden;
+}
+
+@utility collage-img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: top center;
+  /* Dashboard screenshots often have important info at the top */
+  transition: all 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.collage-slot:hover .collage-img {
+  transform: scale(1.08);
+  filter: brightness(0.9);
+}
+
+@utility collage-overlay {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.6);
+  backdrop-filter: blur(4px);
+  /* Premium glassmorphism effect */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  pointer-events: none;
+  border-left: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.collage-overlay span {
+  font-size: 2.5rem;
+  font-weight: 800;
+  letter-spacing: -1px;
+  text-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
+}
+
+.collage-overlay p {
+  font-size: 0.875rem;
+  font-weight: 500;
+  margin-top: -4px;
+  opacity: 0.9;
+}
+
+/* Lightbox Modal - Premium */
+@utility lightbox-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 100;
+  background: rgba(0, 0, 0, 0.95);
+  backdrop-filter: blur(12px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  animation: fadeIn 0.3s ease-out;
+}
+
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+  }
+
+  to {
+    opacity: 1;
+  }
+}
+
+/* Base styles for clearer hierarchy */
+@layer base {
+  h1 {
+    font-weight: 800;
+    /* ExtraBold */
+    letter-spacing: -0.025em;
+  }
+
+  h2,
+  h3,
+  h4 {
+    font-weight: 700;
+    /* Bold */
+    letter-spacing: -0.015em;
+  }
+}
