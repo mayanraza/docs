@@ -6,7 +6,7 @@ Create a powerful website chatbot in 6 easy steps. Follow this guide to get your
 
 ## Step 1: Connect Site
 
-![Connect Site](../../images/panel.botifire.com/textaual%20cahtbots%20creation%20steps/Step%201%20(crawling).png)
+![Connect Site](/images/panel.botifire.com/textaual_cahtbots_creation_steps/step_1_(crawling).png)
 
 ### What happens here?
 Your website gets scanned automatically to teach the chatbot about your business.
@@ -28,7 +28,7 @@ The system finds different sections on your site (About, Services, Projects, etc
 
 ## Step 2: Greeting Builder
 
-![Greeting Builder](../../images/panel.botifire.com/textaual%20cahtbots%20creation%20steps/step%202%20(greeting%20builder).png)
+![Greeting Builder](/images/panel.botifire.com/textaual_cahtbots_creation_steps/step_2_(greeting_builder).png)
 
 ### What happens here?
 Create the first message visitors see when they open your chatbot.
@@ -59,7 +59,7 @@ Link your Facebook, Instagram, LinkedIn, etc.
 
 ## Step 3: Knowledge Base
 
-![Knowledge Base](../../images/panel.botifire.com/textaual%20cahtbots%20creation%20steps/step%203%20(knowledge%20base).png)
+![Knowledge Base](/images/panel.botifire.com/textaual_cahtbots_creation_steps/step_3_(knowledge_base).png)
 
 ### What happens here?
 Add extra content to make your chatbot smarter.
@@ -79,7 +79,7 @@ See all content you've added. You can edit or remove items anytime.
 
 ## Step 4: Style Studio
 
-![Style Studio](../../images/panel.botifire.com/textaual%20cahtbots%20creation%20steps/step%204%20(style%20studio).png)
+![Style Studio](/images/panel.botifire.com/textaual_cahtbots_creation_steps/step_4_(style_studio).png)
 
 ### What happens here?
 Make your chatbot match your brand.
@@ -106,7 +106,7 @@ Each has 4 layout options.
 
 ## Step 5: Integration
 
-![Integration](../../images/panel.botifire.com/textaual%20cahtbots%20creation%20steps/step%205%20(integration).png)
+![Integration](/images/panel.botifire.com/textaual_cahtbots_creation_steps/step_5_(integration).png)
 
 ### What happens here?
 Get your chatbot live on your website.
@@ -132,7 +132,7 @@ Get your chatbot live on your website.
 
 ## Step 6: Persona and Tone
 
-![Persona and Tone](../../images/panel.botifire.com/textaual%20cahtbots%20creation%20steps/step%206%20(persona%20and%20tone).png)
+![Persona and Tone](/images/panel.botifire.com/textaual_cahtbots_creation_steps/step_6_(persona_and_tone).png)
 
 ### What happens here?
 Define how your chatbot talks to customers.

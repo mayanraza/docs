@@ -6,7 +6,7 @@ Create a WhatsApp chatbot in 7 simple steps. Get your AI assistant live on Whats
 
 ## Step 1: WABA Setup
 
-![WABA Setup](../../images/panel.botifire.com/whatsapp%20cahtbots%20creation%20steps/step%201%20havingWabaAndNumber.png)
+![WABA Setup](/images/panel.botifire.com/whatsapp_cahtbots_creation_steps/step_1_havingwabaandnumber.png)
 
 ### What happens here?
 Connect your WhatsApp Business API to enable messaging.
@@ -34,7 +34,7 @@ Select **"I don't have WABA"** and follow the setup wizard to create one through
 
 ## Step 2: Connect Site
 
-![Connect Site](../../images/panel.botifire.com/whatsapp%20cahtbots%20creation%20steps/step%202%20connectSite.png)
+![Connect Site](/images/panel.botifire.com/whatsapp_cahtbots_creation_steps/step_2_connectsite.png)
 
 ### What happens here?
 Scan your website so your WhatsApp bot learns about your business.
@@ -51,7 +51,7 @@ Scan your website so your WhatsApp bot learns about your business.
 
 ## Step 3: Greeting Builder
 
-![Greeting Builder](../../images/panel.botifire.com/whatsapp%20cahtbots%20creation%20steps/step%203%20GreetingBuilder.png)
+![Greeting Builder](/images/panel.botifire.com/whatsapp_cahtbots_creation_steps/step_3_greetingbuilder.png)
 
 ### What happens here?
 Create your welcome message for WhatsApp.
@@ -75,7 +75,7 @@ WhatsApp limits you to 3 buttons - choose wisely.
 
 ## Step 4: Knowledge Base
 
-![Knowledge Base](../../images/panel.botifire.com/whatsapp%20cahtbots%20creation%20steps/step%204%20knowledgeBase.png)
+![Knowledge Base](/images/panel.botifire.com/whatsapp_cahtbots_creation_steps/step_4_knowledgebase.png)
 
 ### What happens here?
 Add extra content to make your bot smarter.
@@ -92,7 +92,7 @@ Add extra content to make your bot smarter.
 
 ## Step 5: Style Studio
 
-![Style Studio](../../images/panel.botifire.com/whatsapp%20cahtbots%20creation%20steps/step%205%20StyleStudio.png)
+![Style Studio](/images/panel.botifire.com/whatsapp_cahtbots_creation_steps/step_5_stylestudio.png)
 
 ### What happens here?
 Set up your WhatsApp Business Profile.
@@ -115,7 +115,7 @@ Set up your WhatsApp Business Profile.
 
 ## Step 6: Integration
 
-![Integration](../../images/panel.botifire.com/whatsapp%20cahtbots%20creation%20steps/step%206%20integration.png)
+![Integration](/images/panel.botifire.com/whatsapp_cahtbots_creation_steps/step_6_integration.png)
 
 ### What happens here?
 Get your bot live and ready for customers.
@@ -140,7 +140,7 @@ Get your bot live and ready for customers.
 
 ## Step 7: Persona and Tone
 
-![Persona and Tone](../../images/panel.botifire.com/whatsapp%20cahtbots%20creation%20steps/step%207%20personaAndTone.png)
+![Persona and Tone](/images/panel.botifire.com/whatsapp_cahtbots_creation_steps/step_7_personaandtone.png)
 
 ### What happens here?
 Define how your bot communicates on WhatsApp.
@@ -172,7 +172,7 @@ Add rules like:
 
 ## Step 8: Access Flow Builder
 
-![Go to Flow](../../images/panel.botifire.com/whatapp%20flow/step%201%20(go%20to%20%20flow).png)
+![Go to Flow](/images/panel.botifire.com/whatapp_flow/step_1_(go_to__flow).png)
 
 ### What happens here?
 Once your chatbot is created, you need to design the conversation logic. Navigate to the **"Flow"** section from your dashboard to start building your bot's automated responses.
@@ -187,7 +187,7 @@ Once your chatbot is created, you need to design the conversation logic. Navigat
 
 ## Step 9: Flow Templates
 
-![Flow Templates](../../images/panel.botifire.com/whatapp%20flow/step%202%20(flow%20templates).png)
+![Flow Templates](/images/panel.botifire.com/whatapp_flow/step_2_(flow_templates).png)
 
 ### What happens here?
 You don't have to start from scratch. Choose from a variety of pre-designed templates tailored for different business needs.
@@ -202,7 +202,7 @@ You don't have to start from scratch. Choose from a variety of pre-designed temp
 
 ## Step 10: Design with Live Preview
 
-![Design Flow](../../images/panel.botifire.com/whatapp%20flow/step%203%20(flow%20with%20live%20preview).png)
+![Design Flow](/images/panel.botifire.com/whatapp_flow/step_3_(flow_with_live_preview).png)
 
 ### What happens here?
 Use the drag-and-drop editor to build your conversation. Add messages, buttons, and delays while seeing exactly how they will look on a phone.
@@ -218,7 +218,7 @@ Use the drag-and-drop editor to build your conversation. Add messages, buttons, 
 
 ## Step 11: Publish & Go Live
 
-![Publish Flow](../../images/panel.botifire.com/whatapp%20flow/step%204%20(publish).PNG)
+![Publish Flow](/images/panel.botifire.com/whatapp_flow/step_4_(publish).PNG)
 
 ### What happens here?
 After designing and testing your flow in the previewer, it's time to make it live for your customers.

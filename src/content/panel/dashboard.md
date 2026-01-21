@@ -10,19 +10,19 @@ Follow these simple steps to access your admin panel and start building your fir
 
 ### Step 1: Start Your Free Trial
 
-![Start Free Trial](../../images/botifire.com/step%201%20(start%20free%20trial).PNG)
+![Start Free Trial](/images/botifire.com/step_1_(start_free_trial).png)
 
 Visit the Botifire website and click on **"Start Free Trial"**. This will take you to the registration page where you can create your account in seconds.
 
 ### Step 2: Login to Your Account
 
-![Login](../../images/botifire.com/step%202%20(login).png)
+![Login](/images/botifire.com/step_2_(login).png)
 
 Once your account is created, use your credentials to **Log In**. This ensures all your data and chatbots are kept secure in your private workspace.
 
 ### Step 3: Access Your Dashboard
 
-![Dashboard Access](../../images/botifire.com/step%203%20(dashboard).png)
+![Dashboard Access](/images/botifire.com/step_3_(dashboard).png)
 
 After logging in, you will be automatically redirected to your **Main Dashboard**. From here, you can manage your projects, view analytics, and create new chatbots.
 
@@ -34,7 +34,7 @@ Explore the complete features of your Botifire Portal. Everything you need to ma
 
 ### 1. Project Overview & Stats
 
-![Project Overview](../../images/botifire.com/project%20overview%20(visitors%20chats).png)
+![Project Overview](/images/botifire.com/project_overview_(visitors_chats).png)
 
 Track your bot's overall performance:
 - **Total Visitors:** Real-time count of people visiting your site.
@@ -43,7 +43,7 @@ Track your bot's overall performance:
 
 ### 2. Chatbot Listing
 
-![Chatbot List](../../images/botifire.com/project%20overview%20(chatbots%20listing).png)
+![Chatbot List](/images/botifire.com/project_overview_(chatbots_listing).png)
 
 Manage all your created bots in one place:
 - **Status:** See which bots are currently active.
@@ -52,7 +52,7 @@ Manage all your created bots in one place:
 
 ### 3. Training & Knowledge Base (AI Intelligence)
 
-![Training](../../images/botifire.com/project%20overview%20(training).png)
+![Training](/images/botifire.com/project_overview_(training).png)
 
 The "Brain" of your bot. Use this section to make your AI an expert in your business:
 - **Files:** Upload PDFs or documents.
@@ -61,19 +61,19 @@ The "Brain" of your bot. Use this section to make your AI an expert in your busi
 
 ### 4. Visitor Listing
 
-![Visitor List](../../images/botifire.com/project%20overview%20(visitors%20listing).png)
+![Visitor List](/images/botifire.com/project_overview_(visitors_listing).png)
 
 See exactly who is interacting with your bot. This section provides a list of all visitors, helping you identify potential leads and customer behavior patterns.
 
 ### 5. Detailed Reports & Analytics
 
-![Reports](../../images/botifire.com/project%20overview%20(reports).png)
+![Reports](/images/botifire.com/project_overview_(reports).png)
 
 Dive deep into your data. View detailed graphs and metrics to understand chat trends, popular questions, and bot efficiency over time.
 
 ### 6. Billing & Subscription Management
 
-![Subscriptions](../../images/botifire.com/project%20overview%20(subscriptions).png)
+![Subscriptions](/images/botifire.com/project_overview_(subscriptions).png)
 
 Manage your professional account settings and track your payments. You can view all your billing details, including past invoices and payment history.
 
@@ -81,12 +81,7 @@ Manage your professional account settings and track your payments. You can view 
 Explore your payment history and invoice status. Click on any image in the collage below to view it in full screen.
 
 ```collage
-/images/botifire.com/project overview (billing1).png
-/images/botifire.com/project overview (billing2).png
-/images/botifire.com/project overview (billing3).png
-/images/botifire.com/project overview (billing4).png
-/images/botifire.com/project overview (billing5).png
-```
+/images/botifire.com/project_overview_(billing1).png/images/botifire.com/project_overview_(billing2).png/images/botifire.com/project_overview_(billing3).png/images/botifire.com/project_overview_(billing4).png/images/botifire.com/project_overview_(billing5).png```
 
 > **Note:** The collage shows a preview of your billing area. Click any image to enlarge and see details.
 
@@ -94,7 +89,7 @@ Explore your payment history and invoice status. Click on any image in the colla
 
 ## Final Step: Integration
 
-![Integration](../../images/botifire.com/project%20overview%20(integration).png)
+![Integration](/images/botifire.com/project_overview_(integration).png)
 
 Once your bot is trained and ready, use the **Integration** section to get your bot live on your website or WhatsApp. 
 
