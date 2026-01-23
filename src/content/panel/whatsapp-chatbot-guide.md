@@ -218,7 +218,7 @@ Use the drag-and-drop editor to build your conversation. Add messages, buttons, 
 
 ## Step 11: Publish & Go Live
 
-![Publish Flow](/images/panel.botifire.com/whatapp_flow/step_4_(publish).PNG)
+![Publish Flow](/images/panel.botifire.com/whatapp_flow/step_4_(publish).png)
 
 ### What happens here?
 After designing and testing your flow in the previewer, it's time to make it live for your customers.
