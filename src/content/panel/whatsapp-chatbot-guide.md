@@ -225,7 +225,7 @@ After designing and testing your flow in the previewer, it's time to make it liv
 
 ### Final Steps
 - Click the **Publish** button in the top right corner.
-- Your WhatsApp chatbot is now officially active with its new flow!
+- Your WhatsApp chatbot is now officially active with its new flow!.
 
 > **Pro Tip:** You can always come back and update your flow even after it's published.
 
