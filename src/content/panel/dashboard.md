@@ -81,7 +81,12 @@ Manage your professional account settings and track your payments. You can view 
 Explore your payment history and invoice status. Click on any image in the collage below to view it in full screen.
 
 ```collage
-/images/botifire.com/project_overview_(billing1).png/images/botifire.com/project_overview_(billing2).png/images/botifire.com/project_overview_(billing3).png/images/botifire.com/project_overview_(billing4).png/images/botifire.com/project_overview_(billing5).png```
+/images/botifire.com/project_overview_(billing1).png
+/images/botifire.com/project_overview_(billing2).png
+/images/botifire.com/project_overview_(billing3).png
+/images/botifire.com/project_overview_(billing4).png
+/images/botifire.com/project_overview_(billing5).png
+```
 
 > **Note:** The collage shows a preview of your billing area. Click any image to enlarge and see details.
 
